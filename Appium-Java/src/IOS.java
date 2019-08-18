@@ -10,7 +10,7 @@ import io.appium.java_client.remote.MobileCapabilityType;
 
 public class IOS {
 	
-	public static IOSDriver<IOSElement> capabilities() throws MalformedURLException{
+	public static IOSDriver<IOSElement> Capabilities() throws MalformedURLException{
 	
 		IOSDriver<IOSElement>driver;
 		

@@ -13,7 +13,7 @@
 	<classpathentry kind="lib" path="/Users/hsouza/Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="/Users/hsouza/Downloads/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/hsouza/Downloads/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
-	<classpathentry kind="lib" path="/Users/hsouza/Downloads/java-client-7.1.0.jar"/>
 	<classpathentry kind="lib" path="/Users/hsouza/Downloads/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/hsouza/Downloads/java-client-7.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

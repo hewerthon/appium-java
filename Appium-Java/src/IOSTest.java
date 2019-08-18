@@ -8,7 +8,7 @@ public class IOSTest extends IOS{
 	public static void main(String[] args) throws MalformedURLException {
 		// TODO Auto-generated method stub
 
-		IOSDriver<IOSElement>driver = capabilities();
+		IOSDriver<IOSElement>driver = Capabilities();
 		
 		driver.findElementByAccessibilityId("Alert Views").click();
 		driver.findElementByXPath("//*[@values='Text Entry'").click();
